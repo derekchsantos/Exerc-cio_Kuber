@@ -1,7 +1,14 @@
 Nome: Derek Christopher Dos Santos
 
-AMBIENTE DO MINIKUBE: Minikube v1.33.1 on Windows 11 (x64) Docker container (CPUs=2, Memory=2200MB)
-VERSÃO DO DOCKER Client: Docker Engine - Community Version: 26.1.0 API version: 1.45 Go version: go1.21.9 Git commit: 9714adc Built: Mon Apr 22 17:06:41 2024 OS/Arch: linux/amd64 Context: default
+AMBIENTE DO MINIKUBE: Minikube v1.33.1 on Ubuntu 22.04.1 LTS Docker container (CPUs=2, Memory=2200MB)
+VERSÃO DO DOCKER Client: Docker Engine - Community
+ Version:           27.0.3
+ API version:       1.46
+ Go version:        go1.21.11
+ Git commit:        7d4bcd8
+ Built:             Sat Jun 29 00:02:33 2024
+ OS/Arch:           linux/amd64
+ Context:           default
 
 2 Deployments (Nginx e Apache); 1 Configmap; 1 Secret; 1 Namespace; 1 Service.
 
